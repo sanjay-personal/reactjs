@@ -72,5 +72,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Creating first app in reactjs
 
 ### `How to start reactjs`
-By using below command to create a App
-. npx create-react-app first-app
+By using below command to create a App <br />
+npx create-react-app first-app
