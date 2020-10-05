@@ -74,3 +74,12 @@ Creating first app in reactjs
 ### `How to start reactjs`
 By using below command to create a App <br />
 npx create-react-app first-app
+
+
+### `How to use Functional and Class Component`
+In components folder we have two js files functional and class <br />
+functional compnonet (GreetF.js) <br/>
+class compnonet (Welcome.js) <br/>
+import both js files in app.js <br/>
+
+
