@@ -83,7 +83,7 @@ class compnonet (Welcome.js) <br/>
 import both js files in app.js <br/>
 
 ### `How to use Props`
-`Note:` Props are Immutable means can't change the value once you declare
+`Note:` Props are Immutable means can't change the value once you declare <br />
 functional compnonet (PropsF.js) <br/>
 class compnonet (PropsC.js) <br/>
 import both js files in app.js <br/>
