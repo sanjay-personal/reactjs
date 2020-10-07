@@ -88,4 +88,15 @@ functional compnonet (PropsF.js) <br/>
 class compnonet (PropsC.js) <br/>
 import both js files in app.js <br/>
 
+### `How to use state`
+`Note:` <br/>
+Create state object and initialize in inside the constructor with `super()` keyword
+<br/>
+Render in html,state object by using `this` keyword
+<br/>
+By using `setState` method we can change the state object
+<br/>
+class compnonet (StateC.js) <br/>
+import js file in app.js <br/>
+
 

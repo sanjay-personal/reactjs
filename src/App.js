@@ -5,6 +5,8 @@ import Greet from './components/GreetF';
 import Welcome from './components/Welcome';
 import PropsF from './components/PropsF';
 import PropsC from './components/PropsC';
+import StateC from './components/StateC';
+import SetstateC from './components/SetstateC';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
      <PropsC name="Hello Class props i rendering from Appjs" greeting="thankyou" />
      <PropsC>I am Class Children use like this</PropsC>
      <PropsC> <button>I am Class ACTION</button> </PropsC>
+     <StateC/>
+     <SetstateC pluseFive = "5" />
 
     </div>
   );
