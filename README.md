@@ -99,4 +99,11 @@ By using `setState` method we can change the state object
 class compnonet (StateC.js) <br/>
 import js file in app.js <br/>
 
+### `How to use EVENT Click and EVENT Bind`
+`Note:` <br/>
+class compnonet EVENT Click (EventsC.js) <br/>
+functionl compnonet EVENT Click (EventsF.js) <br/>
+class compnonet EVENTBind  (EventBindC.js) <br/>
+import js file in app.js <br/>
+
 

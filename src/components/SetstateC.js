@@ -16,7 +16,9 @@ class SetstateC extends Component {
             // pass two arguments with pre and props(pre is userdefined)
             this.setState((pre,props)=>({
                 // number : pre.number +1 + parseInt(this.props.pluseFive)
-                number : pre.number +1 + parseInt(props.pluseFive)
+                // number : pre.number +1 + parseInt(props.pluseFive)
+                number : pre.number +1
+
 
             }))
     }

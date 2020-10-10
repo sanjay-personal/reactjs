@@ -7,6 +7,9 @@ import PropsF from './components/PropsF';
 import PropsC from './components/PropsC';
 import StateC from './components/StateC';
 import SetstateC from './components/SetstateC';
+import EventsF from './components/EventsF';
+import EventsC from './components/EventsC';
+import EventBindC from './components/EventBindC';
 
 function App() {
   return (
@@ -23,7 +26,12 @@ function App() {
      <PropsC> <button>I am Class ACTION</button> </PropsC>
      <StateC/>
      <SetstateC pluseFive = "5" />
-
+     <br></br>
+     <EventsF />
+     <br></br>
+     <EventsC />
+     <br></br>
+     <EventBindC />
     </div>
   );
 }
