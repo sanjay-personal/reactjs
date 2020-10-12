@@ -106,4 +106,10 @@ functionl compnonet EVENT Click (EventsF.js) <br/>
 class compnonet EVENTBind  (EventBindC.js) <br/>
 import js file in app.js <br/>
 
+### `How to communicate child to parent`
+`Note:`  By using `Method` we can call parent component.i created button in `ChildF.js` and clicking on button calling parent  `ParentC.js`.In parent `ParentC.JS` created a method and passing `Method` in selector tag `child.js`.  <br/>
+class compnonet(ParentC.js) <br/>
+functionl compnonet (ChildF.js) <br/>
+import js file in app.js <br/>
+
 

@@ -10,6 +10,7 @@ import SetstateC from './components/SetstateC';
 import EventsF from './components/EventsF';
 import EventsC from './components/EventsC';
 import EventBindC from './components/EventBindC';
+import ParentC from './components/ParentC';
 
 function App() {
   return (
@@ -32,6 +33,8 @@ function App() {
      <EventsC />
      <br></br>
      <EventBindC />
+     <br></br>
+     <ParentC />
     </div>
   );
 }
