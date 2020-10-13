@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Greet from './components/GreetF';
 import Welcome from './components/Welcome';
@@ -11,6 +10,10 @@ import EventsF from './components/EventsF';
 import EventsC from './components/EventsC';
 import EventBindC from './components/EventBindC';
 import ParentC from './components/ParentC';
+import If_Else from './components/If_Else';
+import ElementVariables from './components/ElementVariables';
+import Ternary from './components/Ternary';
+import ShortCircuit from './components/ShortCircuit';
 
 function App() {
   return (
@@ -35,7 +38,16 @@ function App() {
      <EventBindC />
      <br></br>
      <ParentC />
+     <br></br>
+     <If_Else/>
+     <br></br>
+    <ElementVariables />
+    <br></br>
+    <Ternary />
+    <br></br>
+    <ShortCircuit />
     </div>
+
   );
 }
 

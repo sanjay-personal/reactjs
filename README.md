@@ -112,4 +112,11 @@ class compnonet(ParentC.js) <br/>
 functionl compnonet (ChildF.js) <br/>
 import js file in app.js <br/>
 
+### `How to use Conditional Rendering`
+  <br/>
+if/else(If_Else.js) <br/>
+elementvariable(ElementVariable.js) <br/>
+ternary(Ternary.js) <br/>
+shortcircuit(ShortCircuit.js) <br/>
+import js file in app.js <br/>
 
