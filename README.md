@@ -120,3 +120,12 @@ ternary(Ternary.js) <br/>
 shortcircuit(ShortCircuit.js) <br/>
 import js file in app.js <br/>
 
+### `How to use List Rendering`
+  <br/>
+  `Note:` for list we use `map` concept<br />
+simple list(ListF.js) <br/>
+array of object list(ListF2.js) <br/>
+simple list(ListC.js) <br/>
+`other Approach List`.(CarF.js) & (CarView.js) <br/>
+import js file in app.js <br/>
+

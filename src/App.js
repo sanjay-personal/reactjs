@@ -14,6 +14,10 @@ import If_Else from './components/If_Else';
 import ElementVariables from './components/ElementVariables';
 import Ternary from './components/Ternary';
 import ShortCircuit from './components/ShortCircuit';
+import ListC from './components/ListC';
+import ListF from './components/ListF';
+import ListF2 from './components/ListF2';
+import CarF from './components/CarF';
 
 function App() {
   return (
@@ -46,6 +50,14 @@ function App() {
     <Ternary />
     <br></br>
     <ShortCircuit />
+    <br></br>
+    <ListF />
+    <br></br>
+    <ListC />
+    <br></br>
+    <ListF2 />
+    <br></br>
+    <CarF />
     </div>
 
   );
