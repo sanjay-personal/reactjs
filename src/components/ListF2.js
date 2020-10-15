@@ -15,7 +15,7 @@ function ListF2() {
             "capacity": 5
         }]
 
-    const carsList = cars.map(c => <h2>car color is {c.color}.car type is {c.type}.car is registration on {c.registration}.car capacity is{c.capacity}</h2>)
+    const carsList = cars.map(c => <h2 key={c.capacity}>car color is {c.color}.car type is {c.type}.car is registration on {c.registration}.car capacity is{c.capacity}</h2>)
 
     return (
         <div>

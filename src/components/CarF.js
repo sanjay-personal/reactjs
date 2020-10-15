@@ -17,7 +17,10 @@ function CarF() {
             "capacity": 5
         }]
 
-    const carsList = cars.map(c => <CarView c={c}/>)
+    // const carsList = cars.map(c => <CarView c={c}/>)
+    // above one given waring Each child in a list should have a unique "key" prop to resolve those waring use below one
+    const carsList = cars.map(c => <CarView key={c.capacity} c={c}/>)
+
     return (
         <div>
             {carsList}
