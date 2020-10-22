@@ -129,3 +129,8 @@ simple list(ListC.js) <br/>
 `other Approach List`.(CarF.js) & (CarView.js) <br/>
 import js file in app.js <br/>
 
+### `How to use FORM SUBMIT`
+  <br/>
+simple form(Form.js) <br/>
+import js file in app.js <br/>
+

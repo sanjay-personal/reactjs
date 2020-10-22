@@ -18,6 +18,7 @@ import ListC from './components/ListC';
 import ListF from './components/ListF';
 import ListF2 from './components/ListF2';
 import CarF from './components/CarF';
+import Form from './components/Form';
 
 function App() {
   return (
@@ -58,6 +59,8 @@ function App() {
     <ListF2 />
     <br></br>
     <CarF />
+    <br></br>
+    <Form />
     </div>
 
   );
