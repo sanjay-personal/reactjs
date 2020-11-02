@@ -143,3 +143,9 @@ class compnonet(LifeCycleA.js) <br/>
 class compnonet(LifeCycleChildA.js) <br/>
 import js file in app.js <br/>
 
+### `How to use Fragment`
+`Note:` React.Fragment by using this extra dom elements not appeared .we can use two ways.one way is `<React.Fragment>` other way `<>` <br/>
+class compnonet(Fragments.js) <br/>
+import js file in app.js <br/>
+
+

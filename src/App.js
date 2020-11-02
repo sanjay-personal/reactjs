@@ -20,6 +20,7 @@ import ListF2 from './components/ListF2';
 import CarF from './components/CarF';
 import Form from './components/Form';
 import LifeCycleA from './components/LifeCycleA';
+import Fragments from './components/Fragments';
 
 function App() {
   return (
@@ -63,6 +64,7 @@ function App() {
     <br></br>
     <Form />
     <LifeCycleA />
+    <Fragments />
     </div>
 
   );
