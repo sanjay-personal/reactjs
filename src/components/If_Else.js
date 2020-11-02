@@ -12,7 +12,7 @@ class If_Else extends Component {
     render() {
         if (this.state.isLoggedIn) {
             return (<div>
-                <p> Welcome React<h1>IF</h1></p>
+                <p> Welcome React IF</p>
             </div>)
         } else {
             return (<div>

@@ -137,7 +137,7 @@ import js file in app.js <br/>
 
 ### `How to use LIFE CYCLE METHODS`
 `Note:` They are four methods.`MOUNTING`,`UPDATING`,`UNMOUNTING` & `ERROR HANDLING`  <br/>
-### `How to use Mounting LIFE CYCLE METHODS`
+### `How to use Mounting & Updating LIFE CYCLE METHODS`
 `Note:` check the below class component console execution order of life cycle methods.
 class compnonet(LifeCycleA.js) <br/>
 class compnonet(LifeCycleChildA.js) <br/>
