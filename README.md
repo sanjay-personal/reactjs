@@ -148,4 +148,16 @@ import js file in app.js <br/>
 class compnonet(Fragments.js) <br/>
 import js file in app.js <br/>
 
+### `How to use Routing`
+`Note1:` first install `npm install react-router-dom` <br/>
+`Note2:`  in between main APP put `BrowserRouter`  <br/>
+`Note3:`  `import {BrowserRouter, Link, Switch, Route} from 'react-router-dom'`  <br/>
+### `created myrouting.js and import the requried components `  <br/>
+functional compnonet(MyRouting.js) <br/>
+import js file in app.js <br/>
+### `how use LINK in Routing ` <br/>
+`Note:` `LINK` tag convert anchor tag if use see inspect in browser <br/>
+functional compnonet(RLINK.js) <br/>
+import js file in app.js <br/>
+
 
