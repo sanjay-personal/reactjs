@@ -148,7 +148,7 @@ import js file in app.js <br/>
 class compnonet(Fragments.js) <br/>
 import js file in app.js <br/>
 
-### `How to use Routing`
+### `How to use Routing` for more details  https://www.pragimtech.com/blog/reactjs/routing-in-react/
 `Note1:` first install `npm install react-router-dom` <br/>
 `Note2:`  in between main APP put `BrowserRouter`  <br/>
 `Note3:`  `import {BrowserRouter, Link, Switch, Route} from 'react-router-dom'`  <br/>
