@@ -23,7 +23,8 @@ import LifeCycleA from './components/LifeCycleA';
 import Fragments from './components/Fragments';
 import MyRouting from './components/MyRouting';
 import RLINK from './components/RLINK';
-// import RLINK from './components/RLINK.js';
+import RNavLink from './components/RNavLink';
+import PageNotFound from './components/PageNotFound';
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
     <MyRouting />
 
     <RLINK />
+    <RNavLink />
+    {/* <PageNotFound /> */}
 
 
      {/* <Greet />

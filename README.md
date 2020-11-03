@@ -148,7 +148,7 @@ import js file in app.js <br/>
 class compnonet(Fragments.js) <br/>
 import js file in app.js <br/>
 
-### `How to use Routing` for more details  https://www.pragimtech.com/blog/reactjs/routing-in-react/
+### `How to use Routing` for more details  https://www.pragimtech.com/blog/reactjs/routing-in-react/ &  https://www.youtube.com/watch?v=jVtxC6CKzYU&list=PL6n9fhu94yhVpO8VBlUXbxKUuG-n2b1bL&index=38
 `Note1:` first install `npm install react-router-dom` <br/>
 `Note2:`  in between main APP put `BrowserRouter`  <br/>
 `Note3:`  `import {BrowserRouter, Link, Switch, Route} from 'react-router-dom'`  <br/>
@@ -160,4 +160,17 @@ import js file in app.js <br/>
 functional compnonet(RLINK.js) <br/>
 import js file in app.js <br/>
 
+### `how use Switch in Routing ` <br/>
+`Note:` Switch is used matching routing and stop the execution search the routing and use `exact` attribute in Route to match routing and if you note use this attribute it will display home routing component (Welcome) as well as with on click other routes also  <br/>
+functional compnonet(MyRouting.js) <br/>
+import js file in app.js <br/>
+
+### `how use  in NavLink and invalidpath ` <br/>
+`Note:` NavLink show which route should activated <br/>
+`Usage:` use NavLink tage `<NavLink></NavLink>` and use `activeClassName` attribute to stlying purpose <br/>
+class compnonet(RNavLink.js) <br/>
+import js file in app.js <br/>
+`Note:` for `INVALID PATH` to keep this at the `end` as this Route doesnot have any path <br/>
+class compnonet(PageNotFound.js) <br/>
+import js file in app.js <br/>
 
