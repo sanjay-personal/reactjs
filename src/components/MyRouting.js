@@ -8,6 +8,8 @@ import ElementVariables from './ElementVariables';
 import Ternary from './Ternary';
 import ShortCircuit from './ShortCircuit';
 import PageNotFound from './PageNotFound';
+import Employee from './Employee';
+import EditEmployee from './EditEmployee';
 
 
 export default function MyRouting() {
@@ -22,6 +24,10 @@ export default function MyRouting() {
                 <Route path="/ElementVariables" component={ElementVariables}></Route>
                 <Route path="/Ternary" component={Ternary}></Route>
                 <Route path="/ShortCircuit" component={ShortCircuit}></Route>
+                <Route path="/employee" component={Employee}></Route>
+                <Route path="/edit/:id" component={EditEmployee}></Route>
+
+
                 <Route  component={PageNotFound}></Route>
 
             </Switch>

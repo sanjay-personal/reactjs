@@ -11,6 +11,8 @@ import { NavLink } from 'react-router-dom'
                 <li><NavLink to="/ElementVariables" activeClassName="testClass" >ElementVariables</NavLink></li>
                 <li><NavLink to="/Ternary" activeClassName="testClass" >Ternary</NavLink></li>
                 <li><NavLink to="/ShortCircuit" activeClassName="testClass" >ShortCircuit</NavLink></li>
+                <li><NavLink to="/employee" activeClassName="testClass" >Employee List</NavLink></li>
+
             </ul>
             </div>
         )

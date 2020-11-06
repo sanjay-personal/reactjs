@@ -174,3 +174,10 @@ import js file in app.js <br/>
 class compnonet(PageNotFound.js) <br/>
 import js file in app.js <br/>
 
+### `how to use React URL PARAMETERS in Routing` <br/>
+`Note:`    
+class compnonet(Employee.js) <br/>
+class compnonet(EditEmployee.js) <br/>
+
+import js file in app.js <br/>
+
