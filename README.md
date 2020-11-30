@@ -180,4 +180,17 @@ class compnonet(Employee.js) <br/>
 class compnonet(EditEmployee.js) <br/>
 
 import js file in app.js <br/>
+<br/>
+
+## HOOKS CONCEPT
+
+### `how to use UseState` <br/>
+`Note: using array,objects,initial value(like zero) in useState `     <br/>
+(HookCounter.js) <br/>
+(HookCounter1.js) <br/>
+(HookCounter2.js) <br/>
+(HookCounter3.js) <br/>
+
+import js file in app.js <br/>
+<br/>
 

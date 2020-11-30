@@ -1,7 +1,19 @@
 .App {
-  text-align: center;
-}
+  /* text-align: center; */
+  /* width: 50%; */
+  border: 2px solid;
+  padding: 5px;
+  width: 100%;
+  display: flex;
 
+}
+.column {
+  /* float: left; */
+  width: 50%;
+  border: 2px dashed brown;
+  padding: 3px;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
